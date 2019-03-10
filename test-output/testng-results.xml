@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="144" started-at="2019-03-10T07:46:46Z" finished-at="2019-03-10T07:46:47Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="144" started-at="2019-03-10T07:46:46Z" finished-at="2019-03-10T07:46:47Z">
+      <class name="org.maven.automation.assign1.org.maven.automation.assign1.JunitClass1">
+        <test-method status="PASS" signature="t2()" name="t2" duration-ms="4" started-at="2019-03-10T13:16:47Z" finished-at="2019-03-10T13:16:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t2 -->
+        <test-method status="PASS" signature="t3()" name="t3" duration-ms="6" started-at="2019-03-10T13:16:47Z" finished-at="2019-03-10T13:16:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t3 -->
+        <test-method status="PASS" signature="t1()" name="t1" duration-ms="2" started-at="2019-03-10T13:16:47Z" finished-at="2019-03-10T13:16:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t1 -->
+        <test-method status="PASS" signature="t4()" name="t4" duration-ms="8" started-at="2019-03-10T13:16:47Z" finished-at="2019-03-10T13:16:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t4 -->
+        <test-method status="PASS" signature="t5()" name="t5" duration-ms="10" started-at="2019-03-10T13:16:47Z" finished-at="2019-03-10T13:16:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t5 -->
+      </class> <!-- org.maven.automation.assign1.org.maven.automation.assign1.JunitClass1 -->
+      <class name="org.maven.automation.assign1.org.maven.automation.assign1.JunitClass2">
+        <test-method status="PASS" signature="m1()" name="m1" duration-ms="8" started-at="2019-03-10T13:16:47Z" finished-at="2019-03-10T13:16:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method status="PASS" signature="m2()" name="m2" duration-ms="10" started-at="2019-03-10T13:16:47Z" finished-at="2019-03-10T13:16:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m2 -->
+      </class> <!-- org.maven.automation.assign1.org.maven.automation.assign1.JunitClass2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

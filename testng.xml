@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test" junit="true">
+    <classes>
+      <class name="org.maven.automation.assign1.org.maven.automation.assign1.TNGunitClass1"/>
+      <class name="org.maven.automation.assign1.org.maven.automation.assign1.JunitClass2"/>
+      <class name="org.maven.automation.assign1.org.maven.automation.assign1.JunitClass1"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
